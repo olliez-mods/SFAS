@@ -10,7 +10,7 @@ This was build using SFML 3.0.0 snapshot.
 
 Here's what my default setup code usally looks like,:
 
-```
+```CPP
 #include <iostream>
 
 //Includes all the main widgets
