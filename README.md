@@ -29,7 +29,7 @@ int main()
     //Creating the window
     sf::RenderWindow window(sf::VideoMode(sf::Vector2u(800, 800)), "SFML assets", (sf::Style::Titlebar | sf::Style::Close));
     
-    // Making the widget manger, this will mage all your widgets, although you still need to store them.
+    // Making the widget manger, this will manage all your widgets, although you still need to store them.
     sfas::WidgetManager widgetManager;
     // This allows all widgits to load and use the same font
     sfas::Widget::setFont(rp() + "sansation.ttf");
