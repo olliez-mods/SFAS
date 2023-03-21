@@ -6,7 +6,7 @@ I've written basicly ZERO documentation for this so..... ;-;
 
 Anyone is welcome to steal this code (with credit though) and use and change however you like, if you can manage to figure out how it works.
 
-This was build using SFML 3.0.0 snapshot.
+This was build using SFML 3.0.0 snapshot, and yes SFAS works on M2 macbooks.
 
 Here's what my default setup code usally looks like,:
 
